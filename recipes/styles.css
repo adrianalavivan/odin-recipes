@@ -1,0 +1,31 @@
+/* styles.css */
+
+
+h1 
+{
+  color: rgb(137, 85, 85);
+  
+}
+
+  
+.first-color {
+  background-color: yellowgreen;
+}
+
+.second-color {
+  background-color: aquamarine;
+}
+
+p {
+  font-size: 22px;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+h3 {
+  background-color: aliceblue;
+}
+  
