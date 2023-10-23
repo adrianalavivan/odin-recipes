@@ -14,5 +14,12 @@ body {
 
 p {
   font-size: 22px;
+  padding: 8px;
+  background-color: aquamarine;
+}
+
+ul {
+  background-color: white;
+  padding: 8px;
 }
   
